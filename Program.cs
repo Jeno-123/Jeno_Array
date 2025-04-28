@@ -14,6 +14,7 @@ namespace Jeno_Array
         [STAThread]
         static void Main()
         {
+            //janna
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
